@@ -3,9 +3,11 @@
 This project analyzes the sentiments of tweets using Natural Language Processing (NLP) and a Support Vector Machine (SVM) classifier. It classifies tweets into Positive, Negative, or Neutral categories. The model is trained on labeled tweet data and visualized through graphs and word clouds.
 
 **Project Objective**
+
 To build a machine learning model that accurately predicts the sentiment of a tweet. This helps in analyzing public opinion, tracking brand sentiment, and monitoring customer feedback in real time.
 
 **Technologies & Libraries Used**
+
 Python
 
 Pandas – for data manipulation
@@ -20,6 +22,7 @@ NLTK – for natural language processing tasks
 
 
 **Project Workflow**
+
 1.Data Cleaning & Preprocessing
 
 Lowercasing text
